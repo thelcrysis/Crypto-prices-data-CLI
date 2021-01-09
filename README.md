@@ -1,0 +1,1 @@
+Crypto prices data CLI
